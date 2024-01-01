@@ -38,7 +38,7 @@ This project offers a quick and easy-to-use solution for users who want to organ
   npm install
 ```
 ```bash 
-  npm install
+  npm start
 ```
 
 That's all.
